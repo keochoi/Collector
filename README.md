@@ -1,0 +1,2 @@
+# Collector
+a Collector Game
